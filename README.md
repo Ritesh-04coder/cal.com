@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fix: Incorrect German Translation for "Date and Time"</title>
 </head>
 <body>
   <h1>🔧 Fix: Incorrect German Translation for "Date and Time"</h1>
@@ -46,5 +47,8 @@ npm install turbo --save-dev</code></pre>
       Confirm the translated text <strong>"Datum und Uhrzeit"</strong> appears correctly.
     </li>
   </ol>
+
+  <h2>🎉 Personal Note</h2>
+  <p>This was my <strong>first open source contribution</strong>, and I’m proud to have done it well. I’m excited to continue learning and improving — I will shine much better in future contributions!</p>
 </body>
 </html>
