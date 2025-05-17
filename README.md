@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Fix: Incorrect German Translation for "Date and Time"</title>
 </head>
 <body>
   <h1>🔧 Fix: Incorrect German Translation for "Date and Time"</h1>
